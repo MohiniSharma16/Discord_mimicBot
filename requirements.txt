@@ -1,0 +1,9 @@
+discord.py
+cohere
+langchain
+langchain-community
+langchain-cohere
+faiss-cpu
+flask
+python-dotenv
+tiktoken
